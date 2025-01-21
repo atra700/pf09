@@ -432,12 +432,12 @@
 }
 
 .main_visual .arrows .prev {
-    left: 0;
+    left: 8px;
     transform: translate(0, -50%) rotate(-45deg);
 }
 
 .main_visual .arrows .next {
-    right: 0;
+    right: 8px;
     transform: translate(0, -50%) rotate(135deg);
 }
 
@@ -544,12 +544,12 @@
     }
 
     .main_visual .arrows .prev {
-        left: 16px;
+        left: 8px;
         transform: translate(0, -50%) rotate(-45deg);
     }
 
     .main_visual .arrows .next {
-        right: 16px;
+        right: 8px;
         transform: translate(0, -50%) rotate(135deg);
     }
 
